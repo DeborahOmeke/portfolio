@@ -2,7 +2,7 @@
 
 Hello! I'm Deborah Omeke 🤓, a detail driven data analyst, with a strong foundation in Excel and Power BI, passionate about transforming raw data into meaningful insights that drive decision-making. I specialize in data cleaning, dashboard creation, and data visualization. My analytical mindset and attention to detail allow me to uncover trends and patterns that help businesses make smarter decisions. I'm committed to continuous learning and leveraging data to tell compelling stories.
 
-#SKILLS
+# SKILLS
 
 1. Proficient in data cleaning, processing and exploratory data analysis (EDA) using Excel and Power BI
 2. Experience building interactive dashboards and reports using Excel and Power BI
