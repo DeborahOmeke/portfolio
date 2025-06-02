@@ -36,7 +36,9 @@ ZHIYU Shipping Company deals with the transport of a parcel to its destination; 
 
 |----------|----------|
 | 📩   |   [deborahtobi99@gmail.com](mailto:deborahtobi99@gmail.com)  	 | 	
-| 📞   |   [2348107779376](https://wa.me/2348107779376)  	  	 |		
+
+| 📞   |   [2348107779376](https://wa.me/2348107779376)  	  	 |
+
 | 🗃️	| 	[View Resume](my_resume.pdf)				  				 |		
 
 
