@@ -39,7 +39,7 @@ ZHIYU Shipping Company deals with the transport of a parcel to its destination; 
 
 | 📞   |   [2348107779376](https://wa.me/2348107779376)  	  	 |
 
-| 🗃️	| 	[View Resume](my_resume.pdf)				  				 |		
+| 🗃️	| 	[View Resume](DeborahOmeke-Data.CV.pdf)				  				 |		
 
 
 
